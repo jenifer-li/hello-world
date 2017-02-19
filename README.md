@@ -2,7 +2,8 @@
 Just for learning how to use github repository
 ### test
 1.eafjdk 
-[baidu](http://www.baidu.com)
+[a](blog/a.md)
+
 2.fdajkl
 
 *.fdajkfodjo*
